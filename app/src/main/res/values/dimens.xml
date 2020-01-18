@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_recycler_view">8dp</dimen>
+    <dimen name="margin_textview">8dp</dimen>
+    <dimen name="textsize_title">24sp</dimen>
+    <dimen name="textsize_body">16sp</dimen>
+</resources>
